@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 3d1d59d8724ed034181816a63ce38027
+timeCreated: 1445464417
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oie_0
+    21300002: oie_1
+    21300004: oie_2
+    21300006: oie_3
+    21300008: oie_4
+    21300010: oie_5
+    21300012: oie_6
+    21300014: oie_7
+    21300016: oie_8
+    21300018: oie_9
+    21300020: oie_10
+    21300022: oie_11
+    21300024: oie_12
+    21300026: oie_13
+    21300028: oie_14
+    21300030: oie_15
+    21300032: oie_16
+    21300034: oie_17
+    21300036: oie_18
+    21300038: oie_19
+    21300040: oie_20
+    21300042: oie_21
+    21300044: oie_22
+    21300046: oie_23
+    21300048: oie_24
+    21300050: oie_25
+    21300052: oie_26
+    21300054: oie_27
+    21300056: oie_28
+    21300058: oie_29
+    21300060: oie_30
+    21300062: oie_31
+    21300064: oie_32
+    21300066: oie_33
+    21300068: oie_34
+    21300070: oie_35
+    21300072: oie_36
+    21300074: oie_37
+    21300076: oie_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 197
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 194
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 193
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 130
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 129
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 128
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 129
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 129
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 64
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 64
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
